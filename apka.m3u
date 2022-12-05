@@ -1,0 +1,796 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" cache=2000 deinterlace=1
+
+#EXTINF:0 tvg-name="Россия 1" tvg-shifh=0 ,Россия 1
+http://iptv.apka.net.ua:8087/rossiya-1ni
+#EXTINF:0 tvg-name="Россия 24" tvg-shifh=0 ,Россия 24
+http://iptv.apka.net.ua:8087/rossiya-24st
+#EXTINF:0 tvg-name="Первый канал" tvg-shifh=0 ,Первый канал
+http://iptv.apka.net.ua:8087/pervyy-kanalik
+#EXTINF:0 tvg-name="НТВ" tvg-shifh=0 ,НТВ
+http://iptv.apka.net.ua:8087/ntvey
+#EXTINF:0 tvg-name="Оплот ТВ" tvg-shifh=0 ,Оплот ТВ
+http://iptv.apka.net.ua:8087/oplot-hdik
+#EXTINF:0 tvg-name="Первый Республиканский" tvg-shifh=0 ,Первый Республиканский
+http://iptv.apka.net.ua:8088/pervyy-respublikanskiydd
+#EXTINF:0 tvg-name="Оплот 2" tvg-shifh=0 ,Оплот 2
+http://iptv.apka.net.ua:8087/oplot-2aa
+#EXTINF:0 tvg-name="Новороссия ТВ" tvg-shifh=0 ,Новороссия ТВ
+http://iptv.apka.net.ua:8088/novorossiya-tvin
+#EXTINF:0 tvg-name="Юнион ТВ" tvg-shifh=0 ,Юнион ТВ
+http://iptv.apka.net.ua:8087/trk-yunionrn
+#EXTINF:0 tvg-name="Рен-ТВ" tvg-shifh=0 ,Рен-ТВ
+http://iptv.apka.net.ua:8088/renmintvbi
+#EXTINF:0 tvg-name="5 канал" tvg-shifh=0 ,5 канал
+http://iptv.apka.net.ua:8087/5-kanal-rossiyasr
+#EXTINF:0 tvg-name="Матч ТВ" tvg-shifh=0 ,Матч ТВ
+http://iptv.apka.net.ua:8088/match-tvns
+#EXTINF:0 tvg-name="Домашний" tvg-shifh=0 ,Домашний
+http://iptv.apka.net.ua:8088/domashniyfb
+#EXTINF:0 tvg-name="Звезда" tvg-shifh=0 ,Звезда
+http://iptv.apka.net.ua:8087/zvezdasz
+#EXTINF:0 tvg-name="Мир" tvg-shifh=0 ,Мир
+http://iptv.apka.net.ua:8088/miren
+#EXTINF:0 tvg-name="Муз ТВ" tvg-shifh=0 ,Муз ТВ
+http://iptv.apka.net.ua:8087/muz-tvhh
+#EXTINF:0 tvg-name="Мир 24" tvg-shifh=0 ,Мир 24
+http://iptv.apka.net.ua:8087/mir-24er
+#EXTINF:0 tvg-name="SONY Sci-Fi" tvg-shifh=0 ,SONY Sci-Fi
+http://iptv.apka.net.ua:8088/sony-sciminfinh
+#EXTINF:0 tvg-name="Москва 24" tvg-shifh=0 ,Москва 24
+http://iptv.apka.net.ua:8087/moskva-24bf
+#EXTINF:0 tvg-name="Домашний" tvg-shifh=0 ,Домашний
+http://iptv.apka.net.ua:8087/domashniyff
+#EXTINF:0 tvg-name="Первый Щелковский" tvg-shifh=0 ,Первый Щелковский
+http://iptv.apka.net.ua:8088/pervyy-shchelkovskiydt
+#EXTINF:0 tvg-name="Disney" tvg-shifh=0 ,Disney
+http://iptv.apka.net.ua:8088/disneyni
+#EXTINF:0 tvg-name="RUSSIAN MUSICBOX" tvg-shifh=0 ,RUSSIAN MUSICBOX
+http://iptv.apka.net.ua:8088/russian-musicboxyd
+#EXTINF:0 tvg-name="Футбол" tvg-shifh=0 ,Футбол
+http://iptv.apka.net.ua:8088/futbolsf
+#EXTINF:0 tvg-name="Юмор ТВ" tvg-shifh=0 ,Юмор ТВ
+http://iptv.apka.net.ua:8088/yumor-tvkz
+#EXTINF:0 tvg-name="MUSIC BOX TV" tvg-shifh=0 ,MUSIC BOX TV
+http://iptv.apka.net.ua:8088/music-box-tvth
+#EXTINF:0 tvg-name="Shopping-Live" tvg-shifh=0 ,Shopping TV
+http://iptv.apka.net.ua:8087/shopping-liveha
+#EXTINF:0 tvg-name="СОЮЗ" tvg-shifh=0 ,СОЮЗ
+http://iptv.apka.net.ua:8088/soyuzba
+#EXTINF:0 tvg-name="DonMedia канал" tvg-shifh=0 ,DonMedia канал
+http://iptv.apka.net.ua:8088/donmedia-kanalsf
+#EXTINF:0 tvg-name="12 Канал" tvg-shifh=0 ,12 Канал
+http://iptv.apka.net.ua:8086/12-kanalys
+#EXTINF:0 tvg-name="24 Техно" tvg-shifh=0 ,24 Техно
+http://iptv.apka.net.ua:8086/24-tehnote
+#EXTINF:0 tvg-name="2x2" tvg-shifh=0 ,2x2
+http://iptv.apka.net.ua:8087/2x2kf
+#EXTINF:0 tvg-name="365 Дней" tvg-shifh=0 ,365 Дней
+http://iptv.apka.net.ua:8087/365-dneyni
+#EXTINF:0 tvg-name="8 канал" tvg-shifh=0 ,8 канал
+http://iptv.apka.net.ua:8087/8-kanalnd
+#EXTINF:0 tvg-name="A1" tvg-shifh=0 ,A1
+http://iptv.apka.net.ua:8086/amedia-1dy
+#EXTINF:0 tvg-name="A2" tvg-shifh=0 ,A2
+http://iptv.apka.net.ua:8086/amedia-2ik
+#EXTINF:0 tvg-name="ACB TV" tvg-shifh=0 ,ACB TV
+http://iptv.apka.net.ua:8087/acb-tvzd
+#EXTINF:0 tvg-name="Amedia 1" tvg-shifh=0 ,Amedia 1
+http://iptv.apka.net.ua:8087/amedia-1ky
+#EXTINF:0 tvg-name="Amedia 2" tvg-shifh=0 ,Amedia 2
+http://iptv.apka.net.ua:8087/amedia-2yz
+#EXTINF:0 tvg-name="Amedia 2 HD" tvg-shifh=0 ,Amedia 2 HD
+http://iptv.apka.net.ua:8086/amedia-2-hdts
+#EXTINF:0 tvg-name="Amedia Hit" tvg-shifh=0 ,Amedia Hit
+http://iptv.apka.net.ua:8087/amedia-hitdb
+#EXTINF:0 tvg-name="Amedia Hit HD" tvg-shifh=0 ,Amedia Hit HD
+http://iptv.apka.net.ua:8086/amedia-hit-hdrr
+#EXTINF:0 tvg-name="Amedia Premium" tvg-shifh=0 ,Amedia Premium
+http://iptv.apka.net.ua:8086/amedia-premium-hd-sdkz
+#EXTINF:0 tvg-name="Amedia Premium HD" tvg-shifh=0 ,Amedia Premium HD
+http://iptv.apka.net.ua:8087/amedia-premium-hded
+#EXTINF:0 tvg-name="Ani" tvg-shifh=0 ,Ani
+http://iptv.apka.net.ua:8087/anika
+#EXTINF:0 tvg-name="Animal Planet" tvg-shifh=0 ,Animal Planet
+http://iptv.apka.net.ua:8088/animal-planetfh
+#EXTINF:0 tvg-name="Animal Planet HD" tvg-shifh=0 ,Animal Planet HD
+http://iptv.apka.net.ua:8087/animal-planet-hdnt
+#EXTINF:0 tvg-name="BBC" tvg-shifh=0 ,BBC
+http://iptv.apka.net.ua:8086/bbcre
+#EXTINF:0 tvg-name="BBC World" tvg-shifh=0 ,BBC World
+http://iptv.apka.net.ua:8087/bbc-worldeb
+#EXTINF:0 tvg-name="BBC World News" tvg-shifh=0 ,BBC World News
+http://iptv.apka.net.ua:8088/bbc-world-newsdn
+#EXTINF:0 tvg-name="Bloomberg" tvg-shifh=0 ,Bloomberg
+http://iptv.apka.net.ua:8088/bloombergdh
+#EXTINF:0 tvg-name="Bollywood HD" tvg-shifh=0 ,Bollywood HD
+http://iptv.apka.net.ua:8087/bollywood-hdyz
+#EXTINF:0 tvg-name="BOLT" tvg-shifh=0 ,BOLT
+http://iptv.apka.net.ua:8086/bolthf
+#EXTINF:0 tvg-name="Boomerang" tvg-shifh=0 ,Boomerang
+http://iptv.apka.net.ua:8087/boomerangrn
+#EXTINF:0 tvg-name="Bridge HD" tvg-shifh=0 ,Bridge HD
+http://iptv.apka.net.ua:8087/bridge-hdke
+#EXTINF:0 tvg-name="Bridge TV" tvg-shifh=0 ,Bridge TV
+http://iptv.apka.net.ua:8087/bridge-tvzr
+#EXTINF:0 tvg-name="Bridge TV Dance" tvg-shifh=0 ,Bridge TV Dance
+http://iptv.apka.net.ua:8087/bridge-tv-dancehk
+#EXTINF:0 tvg-name="Bridge TV Deluxe HD" tvg-shifh=0 ,Bridge TV Deluxe HD
+http://iptv.apka.net.ua:8086/bridge-tv-deluxe-hdke
+#EXTINF:0 tvg-name="BRIDGE TV HITS" tvg-shifh=0 ,BRIDGE TV HITS
+http://iptv.apka.net.ua:8086/bridge-tv-hitsrd
+#EXTINF:0 tvg-name="Bridge TV Русский Хит" tvg-shifh=0 ,Bridge TV Русский Хит
+http://iptv.apka.net.ua:8087/bridge-tv-russkiy-hitdd
+#EXTINF:0 tvg-name="Cartoon Network" tvg-shifh=0 ,Cartoon Network
+http://iptv.apka.net.ua:8086/cartoon-networkfi
+#EXTINF:0 tvg-name="CBS Reality" tvg-shifh=0 ,CBS Reality
+http://iptv.apka.net.ua:8087/cbs-realityhd
+#EXTINF:0 tvg-name="CGTN Русский" tvg-shifh=0 ,CGTN Русский
+http://iptv.apka.net.ua:8086/cgtn-russkiyki
+#EXTINF:0 tvg-name="CNN" tvg-shifh=0 ,CNN
+http://iptv.apka.net.ua:8088/cnnti
+#EXTINF:0 tvg-name="CNN International" tvg-shifh=0 ,CNN International
+http://iptv.apka.net.ua:8086/cnn-internationalhn
+#EXTINF:0 tvg-name="CurrentTime HD" tvg-shifh=0 ,CurrentTime HD
+http://iptv.apka.net.ua:8088/currenttime-hdty
+#EXTINF:0 tvg-name="Da Vinci" tvg-shifh=0 ,Da Vinci
+http://iptv.apka.net.ua:8086/da-vinciyd
+#EXTINF:0 tvg-name="Discovery Channel" tvg-shifh=0 ,Discovery Channel
+http://iptv.apka.net.ua:8086/discovery-channeldd
+#EXTINF:0 tvg-name="Discovery HD" tvg-shifh=0 ,Discovery HD
+http://iptv.apka.net.ua:8087/discovery-hday
+#EXTINF:0 tvg-name="Discovery Science" tvg-shifh=0 ,Discovery Science
+http://iptv.apka.net.ua:8087/discovery-scienceye
+#EXTINF:0 tvg-name="Docubox" tvg-shifh=0 ,Docubox
+http://iptv.apka.net.ua:8086/docuboxys
+#EXTINF:0 tvg-name="Dorama" tvg-shifh=0 ,Dorama
+http://iptv.apka.net.ua:8087/doramazb
+#EXTINF:0 tvg-name="DW" tvg-shifh=0 ,DW
+http://iptv.apka.net.ua:8088/dwrf
+#EXTINF:0 tvg-name="E TV" tvg-shifh=0 ,E TV
+http://iptv.apka.net.ua:8086/e-tvbr
+#EXTINF:0 tvg-name="English Club TV" tvg-shifh=0 ,English Club TV
+http://iptv.apka.net.ua:8088/english-club-tvss
+#EXTINF:0 tvg-name="Epic Drama HD" tvg-shifh=0 ,Epic Drama HD
+http://iptv.apka.net.ua:8088/epic-drama-hdri
+#EXTINF:0 tvg-name="Euronews" tvg-shifh=0 ,Euronews
+http://iptv.apka.net.ua:8087/euronewshk
+#EXTINF:0 tvg-name="Europa Plus TV" tvg-shifh=0 ,Europa Plus TV
+http://iptv.apka.net.ua:8086/europa-plus-tvht
+#EXTINF:0 tvg-name="Eurosport 1" tvg-shifh=0 ,Eurosport 1
+http://iptv.apka.net.ua:8088/eurosport-1-hdtb
+#EXTINF:0 tvg-name="Eurosport 1 HD" tvg-shifh=0 ,Eurosport 1 HD
+http://iptv.apka.net.ua:8088/eurosport-1-hdtb
+#EXTINF:0 tvg-name="Eurosport 2 HD" tvg-shifh=0 ,Eurosport 2 HD
+http://iptv.apka.net.ua:8087/eurosport-2-hdda
+#EXTINF:0 tvg-name="Eurosport HD" tvg-shifh=0 ,Eurosport HD
+http://iptv.apka.net.ua:8087/eurosport-hdfi
+#EXTINF:0 tvg-name="Extreme Sports" tvg-shifh=0 ,Extreme Sports
+http://iptv.apka.net.ua:8087/extreme-sportsbd
+#EXTINF:0 tvg-name="FAN" tvg-shifh=0 ,FAN
+http://iptv.apka.net.ua:8087/fanht
+#EXTINF:0 tvg-name="Fashion TV" tvg-shifh=0 ,Fashion TV
+http://iptv.apka.net.ua:8086/fashiontvtz
+#EXTINF:0 tvg-name="Fashionbox" tvg-shifh=0 ,Fashionbox
+http://iptv.apka.net.ua:8086/fashionboxeb
+#EXTINF:0 tvg-name="FashionTV Network" tvg-shifh=0 ,FashionTV Network
+http://iptv.apka.net.ua:8086/fashiontvtz
+#EXTINF:0 tvg-name="Fast&Fun HD" tvg-shifh=0 ,Fast&Fun HD
+http://iptv.apka.net.ua:8088/fastfun-hdny
+#EXTINF:0 tvg-name="Fastnfunbox" tvg-shifh=0 ,Fastnfunbox
+http://iptv.apka.net.ua:8086/fastnfunboxhf
+#EXTINF:0 tvg-name="Fightbox" tvg-shifh=0 ,Fightbox
+http://iptv.apka.net.ua:8086/fightboxha
+#EXTINF:0 tvg-name="FightBox HD" tvg-shifh=0 ,FightBox HD
+http://iptv.apka.net.ua:8088/fightbox-hdri
+#EXTINF:0 tvg-name="Filmbox" tvg-shifh=0 ,Filmbox
+http://iptv.apka.net.ua:8086/filmboxya
+#EXTINF:0 tvg-name="Filmbox Arthouse" tvg-shifh=0 ,Filmbox Arthouse
+http://iptv.apka.net.ua:8086/filmbox-arthousead
+#EXTINF:0 tvg-name="Fine Living Network" tvg-shifh=0 ,Fine Living Network
+http://iptv.apka.net.ua:8087/fine-living-networkat
+#EXTINF:0 tvg-name="Flix Snip" tvg-shifh=0 ,Flix Snip
+http://iptv.apka.net.ua:8086/flix-snipsr
+#EXTINF:0 tvg-name="Food Network" tvg-shifh=0 ,Food Network
+http://iptv.apka.net.ua:8087/food-networkrh
+#EXTINF:0 tvg-name="Fox" tvg-shifh=0 ,Fox
+http://iptv.apka.net.ua:8087/foxft
+#EXTINF:0 tvg-name="Fox HD" tvg-shifh=0 ,Fox HD
+http://iptv.apka.net.ua:8087/fox-hdnk
+#EXTINF:0 tvg-name="Fox Life" tvg-shifh=0 ,Fox Life
+http://iptv.apka.net.ua:8087/fox-lifenz
+#EXTINF:0 tvg-name="France 24" tvg-shifh=0 ,France 24
+http://iptv.apka.net.ua:8086/france-24zy
+#EXTINF:0 tvg-name="Game Show" tvg-shifh=0 ,Game Show
+http://iptv.apka.net.ua:8087/game-showrk
+#EXTINF:0 tvg-name="Gulli Girl" tvg-shifh=0 ,Gulli Girl
+http://iptv.apka.net.ua:8087/gulliyr
+#EXTINF:0 tvg-name="HD Life" tvg-shifh=0 ,HD Life
+http://iptv.apka.net.ua:8087/hd-lifeis
+#EXTINF:0 tvg-name="History" tvg-shifh=0 ,History
+http://iptv.apka.net.ua:8086/historynf
+#EXTINF:0 tvg-name="History HD" tvg-shifh=0 ,History HD
+http://iptv.apka.net.ua:8086/historynf
+#EXTINF:0 tvg-name="Hollywood" tvg-shifh=0 ,Hollywood
+http://iptv.apka.net.ua:8087/hollywoodyf
+#EXTINF:0 tvg-name="Hollywood HD" tvg-shifh=0 ,Hollywood HD
+http://iptv.apka.net.ua:8087/hollywood-hdya
+#EXTINF:0 tvg-name="iConcerts HD" tvg-shifh=0 ,iConcerts HD
+http://iptv.apka.net.ua:8086/iconcerts-hdkb
+#EXTINF:0 tvg-name="ID Extra" tvg-shifh=0 ,ID Extra
+http://iptv.apka.net.ua:8088/id-extraka
+#EXTINF:0 tvg-name="ID Investigation Discovery" tvg-shifh=0 ,ID Investigation Discovery
+http://iptv.apka.net.ua:8086/id-investigation-discoverysi
+#EXTINF:0 tvg-name="ID Xtra" tvg-shifh=0 ,ID Xtra
+http://iptv.apka.net.ua:8087/id-xtrahe
+#EXTINF:0 tvg-name="Investigation Discovery" tvg-shifh=0 ,Investigation Discovery
+http://iptv.apka.net.ua:8086/id-investigation-discoverysi
+#EXTINF:0 tvg-name="JimJam" tvg-shifh=0 ,JimJam
+http://iptv.apka.net.ua:8087/jimjamii
+#EXTINF:0 tvg-name="Leomax 24" tvg-shifh=0 ,Leomax 24
+http://iptv.apka.net.ua:8086/leomax-24sk
+#EXTINF:0 tvg-name="M-1 GLOBAL" tvg-shifh=0 ,M-1 GLOBAL
+http://iptv.apka.net.ua:8087/mmin1-globalhy
+#EXTINF:0 tvg-name="MCM Top" tvg-shifh=0 ,MCM Top
+http://iptv.apka.net.ua:8087/mcm-topee
+#EXTINF:0 tvg-name="MEZZO" tvg-shifh=0 ,MEZZO
+http://iptv.apka.net.ua:8088/mezzofd
+#EXTINF:0 tvg-name="Mezzo Live HD" tvg-shifh=0 ,Mezzo Live HD
+http://iptv.apka.net.ua:8087/mezzo-live-hdte
+#EXTINF:0 tvg-name="MTV Dance" tvg-shifh=0 ,MTV Dance
+http://iptv.apka.net.ua:8087/mtv-danceai
+#EXTINF:0 tvg-name="MTV European" tvg-shifh=0 ,MTV European
+http://iptv.apka.net.ua:8087/mtv-europeanrh
+#EXTINF:0 tvg-name="MTV HD" tvg-shifh=0 ,MTV HD
+http://iptv.apka.net.ua:8088/mtv-hdzs
+#EXTINF:0 tvg-name="MTV Hits" tvg-shifh=0 ,MTV Hits
+http://iptv.apka.net.ua:8086/mtvhitsff
+#EXTINF:0 tvg-name="MTV Hits UK" tvg-shifh=0 ,MTV Hits UK
+http://iptv.apka.net.ua:8087/mtv-hits-ukee
+#EXTINF:0 tvg-name="MTV Live HD" tvg-shifh=0 ,MTV Live HD
+http://iptv.apka.net.ua:8087/mtv-live-hdyt
+#EXTINF:0 tvg-name="MTV Rocks" tvg-shifh=0 ,MTV Rocks
+http://iptv.apka.net.ua:8087/mtv-rocksdk
+#EXTINF:0 tvg-name="MTV Россия" tvg-shifh=0 ,MTV Россия
+http://iptv.apka.net.ua:8086/mtv-rossiyats
+#EXTINF:0 tvg-name="Music BOX" tvg-shifh=0 ,Music BOX
+http://iptv.apka.net.ua:8086/music-boxnn
+#EXTINF:0 tvg-name="Nat Geo Wild" tvg-shifh=0 ,Nat Geo Wild
+http://iptv.apka.net.ua:8087/nat-geo-wildha
+#EXTINF:0 tvg-name="Nat Geo Wild HD" tvg-shifh=0 ,Nat Geo Wild HD
+http://iptv.apka.net.ua:8087/nat-geo-wild-hdet
+#EXTINF:0 tvg-name="National Geographic" tvg-shifh=0 ,National Geographic
+http://iptv.apka.net.ua:8087/national-geographictd
+#EXTINF:0 tvg-name="National Geographic HD" tvg-shifh=0 ,National Geographic HD
+http://iptv.apka.net.ua:8087/national-geographic-hder
+#EXTINF:0 tvg-name="NHK WORLD TV" tvg-shifh=0 ,NHK WORLD TV
+http://iptv.apka.net.ua:8086/nhk-world-tvak
+#EXTINF:0 tvg-name="Nick Jr" tvg-shifh=0 ,Nick Jr
+http://iptv.apka.net.ua:8087/nick-jrid
+#EXTINF:0 tvg-name="Nickelodeon" tvg-shifh=0 ,Nickelodeon
+http://iptv.apka.net.ua:8087/nickelodeonrt
+#EXTINF:0 tvg-name="Nickelodeon HD" tvg-shifh=0 ,Nickelodeon HD
+http://iptv.apka.net.ua:8087/nickelodeon-hdhb
+#EXTINF:0 tvg-name="OCEAN TV" tvg-shifh=0 ,OCEAN TV
+http://iptv.apka.net.ua:8087/okean-tvdb
+#EXTINF:0 tvg-name="Outdoor Channel" tvg-shifh=0 ,Outdoor Channel
+http://iptv.apka.net.ua:8087/outdoor-channelft
+#EXTINF:0 tvg-name="Paramount Channel" tvg-shifh=0 ,Paramount Channel
+http://iptv.apka.net.ua:8087/paramount-channelzn
+#EXTINF:0 tvg-name="Paramount Comedy" tvg-shifh=0 ,Paramount Comedy
+http://iptv.apka.net.ua:8087/paramount-comedyat
+#EXTINF:0 tvg-name="RT English" tvg-shifh=0 ,RT English
+http://iptv.apka.net.ua:8086/rt-englishdf
+#EXTINF:0 tvg-name="RTG HD" tvg-shifh=0 ,RTG HD
+http://iptv.apka.net.ua:8087/rtg-hdyb
+#EXTINF:0 tvg-name="RTG TV" tvg-shifh=0 ,RTG TV
+http://iptv.apka.net.ua:8087/rtg-tvek
+#EXTINF:0 tvg-name="RU TV" tvg-shifh=0 ,RU TV
+http://iptv.apka.net.ua:8087/ru-tvik
+#EXTINF:0 tvg-name="Russia Today Documentary HD" tvg-shifh=0 ,Russia Today Documentary HD
+http://iptv.apka.net.ua:8087/russia-today-documentary-hdth
+#EXTINF:0 tvg-name="Russian Travel Guide (RTG TV)" tvg-shifh=0 ,Russian Travel Guide (RTG TV)
+http://iptv.apka.net.ua:8086/russian-travel-guide-rtg-tvbr
+#EXTINF:0 tvg-name="Shop&Show" tvg-shifh=0 ,Shop&Show
+http://iptv.apka.net.ua:8086/shopshower
+#EXTINF:0 tvg-name="Shopping Live" tvg-shifh=0 ,Shopping Live
+http://iptv.apka.net.ua:8087/shopping-liveha
+#EXTINF:0 tvg-name="SHOT TV" tvg-shifh=0 ,SHOT TV
+http://iptv.apka.net.ua:8086/shot-tvts
+#EXTINF:0 tvg-name="SONY CHANNEL" tvg-shifh=0 ,SONY CHANNEL
+http://iptv.apka.net.ua:8086/sony-channel-hdke
+#EXTINF:0 tvg-name="Sony Channel HD" tvg-shifh=0 ,Sony Channel HD
+http://iptv.apka.net.ua:8086/sony-channel-hdke
+#EXTINF:0 tvg-name="Sony Turbo" tvg-shifh=0 ,Sony Turbo
+http://iptv.apka.net.ua:8087/sony-turbobd
+#EXTINF:0 tvg-name="Spike" tvg-shifh=0 ,Spike
+http://iptv.apka.net.ua:8087/spikery
+#EXTINF:0 tvg-name="Star Cinema" tvg-shifh=0 ,Star Cinema
+http://iptv.apka.net.ua:8087/star-cinemafy
+#EXTINF:0 tvg-name="TB 1000 Русское кино" tvg-shifh=0 ,TB 1000 Русское кино
+http://iptv.apka.net.ua:8086/tv1000ruskinft
+#EXTINF:0 tvg-name="TiJi" tvg-shifh=0 ,TiJi
+http://iptv.apka.net.ua:8087/tijikt
+#EXTINF:0 tvg-name="TLC" tvg-shifh=0 ,TLC
+http://iptv.apka.net.ua:8087/tlcbd
+#EXTINF:0 tvg-name="TLC HD" tvg-shifh=0 ,TLC HD
+http://iptv.apka.net.ua:8087/tlc-hdri
+#EXTINF:0 tvg-name="Travel Adventure" tvg-shifh=0 ,Travel Adventure
+http://iptv.apka.net.ua:8087/travel-adventurefz
+#EXTINF:0 tvg-name="Travel Channel" tvg-shifh=0 ,Travel Channel
+http://iptv.apka.net.ua:8086/travel-channelzi
+#EXTINF:0 tvg-name="Travel Channel HD" tvg-shifh=0 ,Travel Channel HD
+http://iptv.apka.net.ua:8086/travel-channel-hdrt
+#EXTINF:0 tvg-name="Travel HD" tvg-shifh=0 ,Travel HD
+http://iptv.apka.net.ua:8087/travel-hdef
+#EXTINF:0 tvg-name="Travel+Adventure" tvg-shifh=0 ,Travel+Adventure
+http://iptv.apka.net.ua:8086/travelplusadventureyd
+#EXTINF:0 tvg-name="TV 1000" tvg-shifh=0 ,TV 1000
+http://iptv.apka.net.ua:8087/tv1000bi
+#EXTINF:0 tvg-name="TV 1000 East" tvg-shifh=0 ,TV 1000 East
+http://iptv.apka.net.ua:8088/tv-1000-eastse
+#EXTINF:0 tvg-name="TV XXI (TV21)" tvg-shifh=0 ,TV XXI (TV21)
+http://iptv.apka.net.ua:8086/tv-xxi-tv21yh
+#EXTINF:0 tvg-name="TV1000" tvg-shifh=0 ,TV1000
+http://iptv.apka.net.ua:8087/tv1000bi
+#EXTINF:0 tvg-name="TV1000 Action" tvg-shifh=0 ,TV1000 Action
+http://iptv.apka.net.ua:8087/tv1000-actionhh
+#EXTINF:0 tvg-name="TV1000 Русское кино" tvg-shifh=0 ,TV1000 Русское кино
+http://iptv.apka.net.ua:8087/tv1000-russkoe-kinozy
+#EXTINF:0 tvg-name="VH1 Classic" tvg-shifh=0 ,VH1 Classic
+http://iptv.apka.net.ua:8087/vh1-classiczt
+#EXTINF:0 tvg-name="VH1 European" tvg-shifh=0 ,VH1 European
+http://iptv.apka.net.ua:8087/vh1-europeanef
+#EXTINF:0 tvg-name="Viasat Explorer" tvg-shifh=0 ,Viasat Explorer
+http://iptv.apka.net.ua:8087/viasat-explorertd
+#EXTINF:0 tvg-name="Viasat History" tvg-shifh=0 ,Viasat History
+http://iptv.apka.net.ua:8086/viasat-historynh
+#EXTINF:0 tvg-name="Viasat Nature" tvg-shifh=0 ,Viasat Nature
+http://iptv.apka.net.ua:8086/viasat-naturess
+#EXTINF:0 tvg-name="Viasat Nature CEE" tvg-shifh=0 ,Viasat Nature CEE
+http://iptv.apka.net.ua:8087/viasat-nature-ceedy
+#EXTINF:0 tvg-name="Viasat Nature-History HD" tvg-shifh=0 ,Viasat Nature-History HD
+http://iptv.apka.net.ua:8087/viasat-natureminhistory-hdft
+#EXTINF:0 tvg-name="Viasat Sport" tvg-shifh=0 ,Viasat Sport
+http://iptv.apka.net.ua:8087/viasat-sporttn
+#EXTINF:0 tvg-name="VIP Comedy HD" tvg-shifh=0 ,VIP Comedy HD
+http://iptv.apka.net.ua:8087/vip-comedy-hdsf
+#EXTINF:0 tvg-name="VIP Megahit HD" tvg-shifh=0 ,VIP Megahit HD
+http://iptv.apka.net.ua:8087/vip-megahit-hdit
+#EXTINF:0 tvg-name="VIP Premiere HD" tvg-shifh=0 ,VIP Premiere HD
+http://iptv.apka.net.ua:8087/vip-premiere-hdkb
+#EXTINF:0 tvg-name="World Fashion" tvg-shifh=0 ,World Fashion
+http://iptv.apka.net.ua:8087/world-fashioney
+#EXTINF:0 tvg-name="World Fashion Ru" tvg-shifh=0 ,World Fashion Ru
+http://iptv.apka.net.ua:8086/world-fashion-rufd
+#EXTINF:0 tvg-name="Zee TV" tvg-shifh=0 ,Zee TV
+http://iptv.apka.net.ua:8087/zee-tvbk
+#EXTINF:0 tvg-name="Авто 24" tvg-shifh=0 ,Авто 24
+http://iptv.apka.net.ua:8087/avto-24dr
+#EXTINF:0 tvg-name="Авто Плюс" tvg-shifh=0 ,Авто Плюс
+http://iptv.apka.net.ua:8087/avto-plyustf
+#EXTINF:0 tvg-name="Архыз 24" tvg-shifh=0 ,Архыз 24
+http://iptv.apka.net.ua:8086/arhyz-24nz
+#EXTINF:0 tvg-name="Астрахань 24" tvg-shifh=0 ,Астрахань 24
+http://iptv.apka.net.ua:8086/astrahan-24ia
+#EXTINF:0 tvg-name="БелРос" tvg-shifh=0 ,БелРос
+http://iptv.apka.net.ua:8087/belrosbe
+#EXTINF:0 tvg-name="Бобер" tvg-shifh=0 ,Бобер
+http://iptv.apka.net.ua:8087/boberrb
+#EXTINF:0 tvg-name="Бокс ТВ" tvg-shifh=0 ,Бокс ТВ
+http://iptv.apka.net.ua:8087/boks-tvbn
+#EXTINF:0 tvg-name="Брянская Губерния" tvg-shifh=0 ,Брянская Губерния
+http://iptv.apka.net.ua:8086/bryanskaya-guberniyasy
+#EXTINF:0 tvg-name="БСТ" tvg-shifh=0 ,БСТ
+http://iptv.apka.net.ua:8086/bstre
+#EXTINF:0 tvg-name="В гостях у сказки" tvg-shifh=0 ,В гостях у сказки
+http://iptv.apka.net.ua:8087/v-gostyah-u-skazkiyf
+#EXTINF:0 tvg-name="Ваш Успех" tvg-shifh=0 ,Ваш Успех
+http://iptv.apka.net.ua:8086/vash-uspehef
+#EXTINF:0 tvg-name="Время" tvg-shifh=0 ,Время
+http://iptv.apka.net.ua:8086/vremyant
+#EXTINF:0 tvg-name="Время далекое и близкое" tvg-shifh=0 ,Время далекое и близкое
+http://iptv.apka.net.ua:8087/vremya-dalekoe-i-blizkoezs
+#EXTINF:0 tvg-name="Глазами Туриста HD" tvg-shifh=0 ,Глазами Туриста HD
+http://iptv.apka.net.ua:8086/glazami-turista-hdtr
+#EXTINF:0 tvg-name="Губерния" tvg-shifh=0 ,Губерния
+http://iptv.apka.net.ua:8086/guberniyasy
+#EXTINF:0 tvg-name="Да Винчи" tvg-shifh=0 ,Да Винчи
+http://iptv.apka.net.ua:8087/da-vinchiib
+#EXTINF:0 tvg-name="Детский" tvg-shifh=0 ,Детский
+http://iptv.apka.net.ua:8087/detskiynt
+#EXTINF:0 tvg-name="Детский Мир" tvg-shifh=0 ,Детский Мир
+http://iptv.apka.net.ua:8088/detskiy-mirey
+#EXTINF:0 tvg-name="Детский мир Телеклуб" tvg-shifh=0 ,Детский мир Телеклуб
+http://iptv.apka.net.ua:8086/detskiy-mir-teleklubbr
+#EXTINF:0 tvg-name="Диалоги о рыбалке" tvg-shifh=0 ,Диалоги о рыбалке
+http://iptv.apka.net.ua:8087/dialogi-o-rybalkezi
+#EXTINF:0 tvg-name="Дикая Охота HD" tvg-shifh=0 ,Дикая Охота HD
+http://iptv.apka.net.ua:8086/dikaya-ohota-hddr
+#EXTINF:0 tvg-name="Дикая Рыбалка HD" tvg-shifh=0 ,Дикая Рыбалка HD
+http://iptv.apka.net.ua:8086/dikaya-rybalka-hdbs
+#EXTINF:0 tvg-name="Дикий" tvg-shifh=0 ,Дикий
+http://iptv.apka.net.ua:8087/dikiyir
+#EXTINF:0 tvg-name="Доктор" tvg-shifh=0 ,Доктор
+http://iptv.apka.net.ua:8087/doktorsy
+#EXTINF:0 tvg-name="Дом кино" tvg-shifh=0 ,Дом кино
+http://iptv.apka.net.ua:8087/dom-kinokf
+#EXTINF:0 tvg-name="Дом кино Премиум HD" tvg-shifh=0 ,Дом кино Премиум HD
+http://iptv.apka.net.ua:8087/dom-kino-premium-hdzt
+#EXTINF:0 tvg-name="Домашние животные" tvg-shifh=0 ,Домашние животные
+http://iptv.apka.net.ua:8087/domashnie-jivotnyeda
+#EXTINF:0 tvg-name="Домашний +2" tvg-shifh=0 ,Домашний +2
+http://iptv.apka.net.ua:8086/domashniy-plus2aa
+#EXTINF:0 tvg-name="Домашний +4" tvg-shifh=0 ,Домашний +4
+http://iptv.apka.net.ua:8086/domashniy-plus4br
+#EXTINF:0 tvg-name="ДОН 24 ТВ" tvg-shifh=0 ,ДОН 24 ТВ
+http://iptv.apka.net.ua:8086/don-24-tvdd
+#EXTINF:0 tvg-name="Дорама" tvg-shifh=0 ,Дорама
+http://iptv.apka.net.ua:8086/doramasf
+#EXTINF:0 tvg-name="Еврокино" tvg-shifh=0 ,Еврокино
+http://iptv.apka.net.ua:8087/evrokinosd
+#EXTINF:0 tvg-name="Европа Плюс ТВ" tvg-shifh=0 ,Европа Плюс ТВ
+http://iptv.apka.net.ua:8087/evropa-plyus-tvrt
+#EXTINF:0 tvg-name="Жара" tvg-shifh=0 ,Жара
+http://iptv.apka.net.ua:8087/jarahf
+#EXTINF:0 tvg-name="Живая планета" tvg-shifh=0 ,Живая планета
+http://iptv.apka.net.ua:8086/jivaya-planetaks
+#EXTINF:0 tvg-name="Живая Природа HD" tvg-shifh=0 ,Живая Природа HD
+http://iptv.apka.net.ua:8086/jivaya-priroda-hdib
+#EXTINF:0 tvg-name="ЖиВи" tvg-shifh=0 ,ЖиВи
+http://iptv.apka.net.ua:8087/jiviyi
+#EXTINF:0 tvg-name="Загородная жизнь" tvg-shifh=0 ,Загородная жизнь
+http://iptv.apka.net.ua:8087/zagorodnaya-jiznzs
+#EXTINF:0 tvg-name="Загородная Жизнь" tvg-shifh=0 ,Загородная Жизнь
+http://iptv.apka.net.ua:8086/zagorodnaya-jizntd
+#EXTINF:0 tvg-name="Звезда +2" tvg-shifh=0 ,Звезда +2
+http://iptv.apka.net.ua:8086/zvezda-plus2dr
+#EXTINF:0 tvg-name="Звезда +4" tvg-shifh=0 ,Звезда +4
+http://iptv.apka.net.ua:8086/zvezda-plus4rd
+#EXTINF:0 tvg-name="Зоопарк" tvg-shifh=0 ,Зоопарк
+http://iptv.apka.net.ua:8087/zooparkie
+#EXTINF:0 tvg-name="Известия" tvg-shifh=0 ,Известия
+http://iptv.apka.net.ua:8087/izvestiyaab
+#EXTINF:0 tvg-name="Иллюзион+" tvg-shifh=0 ,Иллюзион+
+http://iptv.apka.net.ua:8087/illyuzionaa
+#EXTINF:0 tvg-name="Индийское Кино" tvg-shifh=0 ,Индийское Кино
+http://iptv.apka.net.ua:8087/indiyskoe-kinoki
+#EXTINF:0 tvg-name="История" tvg-shifh=0 ,История
+http://iptv.apka.net.ua:8087/istoriyarf
+#EXTINF:0 tvg-name="Канал Disney" tvg-shifh=0 ,Канал Disney
+http://iptv.apka.net.ua:8087/kanal-disneyfe
+#EXTINF:0 tvg-name="Канал Супер" tvg-shifh=0 ,Канал Супер
+http://iptv.apka.net.ua:8087/kanal-supernf
+#EXTINF:0 tvg-name="Карусель" tvg-shifh=0 ,Карусель
+http://iptv.apka.net.ua:8087/karuselat
+#EXTINF:0 tvg-name="Карусель +3" tvg-shifh=0 ,Карусель +3
+http://iptv.apka.net.ua:8086/karusel-plus3eh
+#EXTINF:0 tvg-name="КВН ТВ" tvg-shifh=0 ,КВН ТВ
+http://iptv.apka.net.ua:8087/kvn-tvhf
+#EXTINF:0 tvg-name="Кино ТВ" tvg-shifh=0 ,Кино ТВ
+http://iptv.apka.net.ua:8087/kino-tvdb
+#EXTINF:0 tvg-name="Кино ТВ HD" tvg-shifh=0 ,Кино ТВ HD
+http://iptv.apka.net.ua:8086/kino-tv-hdhz
+#EXTINF:0 tvg-name="КИНОКОМЕДИЯ" tvg-shifh=0 ,КИНОКОМЕДИЯ
+http://iptv.apka.net.ua:8086/kinokomediyaas
+#EXTINF:0 tvg-name="КиноМикс" tvg-shifh=0 ,КиноМикс
+http://iptv.apka.net.ua:8087/kinomiksit
+#EXTINF:0 tvg-name="Киномикс HD" tvg-shifh=0 ,Киномикс HD
+http://iptv.apka.net.ua:8086/kinomiks-hdse
+#EXTINF:0 tvg-name="Кинопремьера" tvg-shifh=0 ,Кинопремьера
+http://iptv.apka.net.ua:8087/kinopremerayt
+#EXTINF:0 tvg-name="Кинопремьера (HD)" tvg-shifh=0 ,Кинопремьера (HD)
+http://iptv.apka.net.ua:8086/kinopremera-hdtz
+#EXTINF:0 tvg-name="Киносвидание" tvg-shifh=0 ,Киносвидание
+http://iptv.apka.net.ua:8087/kinosvidanieds
+#EXTINF:0 tvg-name="Киносемья" tvg-shifh=0 ,Киносемья
+http://iptv.apka.net.ua:8087/kinosemyafb
+#EXTINF:0 tvg-name="Киносерия" tvg-shifh=0 ,Киносерия
+http://iptv.apka.net.ua:8087/kinoseriyaka
+#EXTINF:0 tvg-name="Киноужас HD" tvg-shifh=0 ,Киноужас HD
+http://iptv.apka.net.ua:8086/kinoujas-hdid
+#EXTINF:0 tvg-name="Кинохит" tvg-shifh=0 ,Кинохит
+http://iptv.apka.net.ua:8087/kinohitbz
+#EXTINF:0 tvg-name="Комедия" tvg-shifh=0 ,Комедия
+http://iptv.apka.net.ua:8086/komediyask
+#EXTINF:0 tvg-name="Комедия ТВ" tvg-shifh=0 ,Комедия ТВ
+http://iptv.apka.net.ua:8087/komediya-tved
+#EXTINF:0 tvg-name="Конный Мир HD" tvg-shifh=0 ,Конный Мир HD
+http://iptv.apka.net.ua:8087/konnyy-mir-hdbf
+#EXTINF:0 tvg-name="Крик ТВ" tvg-shifh=0 ,Крик ТВ
+http://iptv.apka.net.ua:8086/krik-tvea
+#EXTINF:0 tvg-name="Кто есть кто" tvg-shifh=0 ,Кто есть кто
+http://iptv.apka.net.ua:8087/kto-est-ktodn
+#EXTINF:0 tvg-name="Кубань 24 Орбита" tvg-shifh=0 ,Кубань 24 Орбита
+http://iptv.apka.net.ua:8086/kuban-24-orbitaeh
+#EXTINF:0 tvg-name="Курай ТВ" tvg-shifh=0 ,Курай ТВ
+http://iptv.apka.net.ua:8086/kuray-tvei
+#EXTINF:0 tvg-name="Кухня ТВ" tvg-shifh=0 ,Кухня ТВ
+http://iptv.apka.net.ua:8087/kuhnya-tvsy
+#EXTINF:0 tvg-name="КХЛ" tvg-shifh=0 ,КХЛ
+http://iptv.apka.net.ua:8087/khlzb
+#EXTINF:0 tvg-name="КХЛ HD" tvg-shifh=0 ,КХЛ HD
+http://iptv.apka.net.ua:8086/khl-hdeb
+#EXTINF:0 tvg-name="КХЛ-ТВ" tvg-shifh=0 ,КХЛ-ТВ
+http://iptv.apka.net.ua:8086/khlmintvyy
+#EXTINF:0 tvg-name="Любимое Кино" tvg-shifh=0 ,Любимое Кино
+http://iptv.apka.net.ua:8087/lyubimoe-kinobn
+#EXTINF:0 tvg-name="Ля минор" tvg-shifh=0 ,Ля минор
+http://iptv.apka.net.ua:8087/lya-minorhb
+#EXTINF:0 tvg-name="Малыш" tvg-shifh=0 ,Малыш
+http://iptv.apka.net.ua:8087/malyshht
+#EXTINF:0 tvg-name="Мама" tvg-shifh=0 ,Мама
+http://iptv.apka.net.ua:8087/mamahk
+#EXTINF:0 tvg-name="Матч Премьер HD" tvg-shifh=0 ,Матч Премьер HD
+http://iptv.apka.net.ua:8087/match-premer-hdyy
+#EXTINF:0 tvg-name="Матч ТВ HD" tvg-shifh=0 ,Матч ТВ HD
+http://iptv.apka.net.ua:8087/match-tv-hdsk
+#EXTINF:0 tvg-name="МАТЧ!" tvg-shifh=0 ,МАТЧ!
+http://iptv.apka.net.ua:8086/matchtk
+#EXTINF:0 tvg-name="Матч! Арена" tvg-shifh=0 ,Матч! Арена
+http://iptv.apka.net.ua:8087/match-arenana
+#EXTINF:0 tvg-name="Матч! Арена HD" tvg-shifh=0 ,Матч! Арена HD
+http://iptv.apka.net.ua:8087/match-arena-hdrb
+#EXTINF:0 tvg-name="МАТЧ! БОЕЦ" tvg-shifh=0 ,МАТЧ! БОЕЦ
+http://iptv.apka.net.ua:8086/match-boeczz
+#EXTINF:0 tvg-name="МАТЧ! ИГРА" tvg-shifh=0 ,МАТЧ! ИГРА
+http://iptv.apka.net.ua:8086/match-igrane
+#EXTINF:0 tvg-name="Матч! Игра HD" tvg-shifh=0 ,Матч! Игра HD
+http://iptv.apka.net.ua:8087/match-igra-hdbs
+#EXTINF:0 tvg-name="МАТЧ! НАШ СПОРТ" tvg-shifh=0 ,МАТЧ! НАШ СПОРТ
+http://iptv.apka.net.ua:8086/match-nash-sportyt
+#EXTINF:0 tvg-name="Матч! Премьер" tvg-shifh=0 ,Матч! Премьер
+http://iptv.apka.net.ua:8087/match-premerbh
+#EXTINF:0 tvg-name="Матч! Страна" tvg-shifh=0 ,Матч! Страна
+http://iptv.apka.net.ua:8087/match-stranayd
+#EXTINF:0 tvg-name="Матч! Футбол 1" tvg-shifh=0 ,Матч! Футбол 1
+http://iptv.apka.net.ua:8087/match-futbol-1ra
+#EXTINF:0 tvg-name="Матч! Футбол 1 HD" tvg-shifh=0 ,Матч! Футбол 1 HD
+http://iptv.apka.net.ua:8087/match-futbol-1-hdti
+#EXTINF:0 tvg-name="Матч! Футбол 2" tvg-shifh=0 ,Матч! Футбол 2
+http://iptv.apka.net.ua:8087/match-futbol-2ys
+#EXTINF:0 tvg-name="Матч! Футбол 2 HD" tvg-shifh=0 ,Матч! Футбол 2 HD
+http://iptv.apka.net.ua:8087/match-futbol-2-hdkz
+#EXTINF:0 tvg-name="Матч! Футбол 3" tvg-shifh=0 ,Матч! Футбол 3
+http://iptv.apka.net.ua:8087/match-futbol-3fz
+#EXTINF:0 tvg-name="Матч! Футбол 3 HD" tvg-shifh=0 ,Матч! Футбол 3 HD
+http://iptv.apka.net.ua:8087/match-futbol-3-hdbr
+#EXTINF:0 tvg-name="МИР Premium" tvg-shifh=0 ,МИР Premium
+http://iptv.apka.net.ua:8087/mir-premiumhn
+#EXTINF:0 tvg-name="МИР Premium (HD)" tvg-shifh=0 ,МИР Premium (HD)
+http://iptv.apka.net.ua:8086/mir-premium-hdhb
+#EXTINF:0 tvg-name="Мир баскетбола" tvg-shifh=0 ,Мир баскетбола
+http://iptv.apka.net.ua:8087/mir-basketbolaid
+#EXTINF:0 tvg-name="Мир Белогорья" tvg-shifh=0 ,Мир Белогорья
+http://iptv.apka.net.ua:8086/mir-belogoryast
+#EXTINF:0 tvg-name="Мир сериалов" tvg-shifh=0 ,Мир сериала
+http://iptv.apka.net.ua:8087/mir-serialada
+#EXTINF:0 tvg-name="Мир Увлечений" tvg-shifh=0 ,Мир Увлечений
+http://iptv.apka.net.ua:8086/mir-uvlecheniyae
+#EXTINF:0 tvg-name="МКТ" tvg-shifh=0 ,МКТ
+http://iptv.apka.net.ua:8086/mktta
+#EXTINF:0 tvg-name="Морской" tvg-shifh=0 ,Морской
+http://iptv.apka.net.ua:8087/morskoyet
+#EXTINF:0 tvg-name="Москва Доверие" tvg-shifh=0 ,Москва Доверие
+http://iptv.apka.net.ua:8086/moskva-doveriedi
+#EXTINF:0 tvg-name="Мосфильм Золотая коллекция" tvg-shifh=0 ,Мосфильм Золотая коллекция
+http://iptv.apka.net.ua:8086/mosfilmmf
+#EXTINF:0 tvg-name="Моя Планета" tvg-shifh=0 ,Моя Планета
+http://iptv.apka.net.ua:8087/moya-planetane
+#EXTINF:0 tvg-name="Мужское кино" tvg-shifh=0 ,Мужское кино
+http://iptv.apka.net.ua:8087/mujskoe-kinork
+#EXTINF:0 tvg-name="Мужское Кино HD" tvg-shifh=0 ,Мужское Кино HD
+http://iptv.apka.net.ua:8086/mujskoe-kino-hdsn
+#EXTINF:0 tvg-name="Музыка Первого" tvg-shifh=0 ,Музыка Первого
+http://iptv.apka.net.ua:8087/muzyka-pervogokd
+#EXTINF:0 tvg-name="Мульт" tvg-shifh=0 ,Мульт
+http://iptv.apka.net.ua:8087/multti
+#EXTINF:0 tvg-name="Мульт HD" tvg-shifh=0 ,Мульт HD
+http://iptv.apka.net.ua:8086/mult-hdsa
+#EXTINF:0 tvg-name="Мульт Музыка" tvg-shifh=0 ,Мульт Музыка
+http://iptv.apka.net.ua:8087/mult-muzykayh
+#EXTINF:0 tvg-name="Мультимания" tvg-shifh=0 ,Мультимания
+http://iptv.apka.net.ua:8087/multimaniyaie
+#EXTINF:0 tvg-name="Мультимузыка" tvg-shifh=0 ,Мультимузыка
+http://iptv.apka.net.ua:8086/multimuzykait
+#EXTINF:0 tvg-name="Настоящее Страшное ТВ" tvg-shifh=0 ,Настоящее Страшное ТВ
+http://iptv.apka.net.ua:8086/nastoyashchee-strashnoe-tvte
+#EXTINF:0 tvg-name="Наука 2.0" tvg-shifh=0 ,Наука 2.0
+http://iptv.apka.net.ua:8087/nauka-20fn
+#EXTINF:0 tvg-name="Наш Футбол (Матч! Премьер HD)" tvg-shifh=0 ,Наш Футбол (Матч! Премьер HD)
+http://iptv.apka.net.ua:8086/nash-futbol-match-premer-hdea
+#EXTINF:0 tvg-name="Наш Футбол (Матч! Премьер)" tvg-shifh=0 ,Наш Футбол (Матч! Премьер)
+http://iptv.apka.net.ua:8086/nash-futbol-match-premeren
+#EXTINF:0 tvg-name="Наше Кино" tvg-shifh=0 ,Наше Кино
+http://iptv.apka.net.ua:8088/nashe-kinord
+#EXTINF:0 tvg-name="Наше Новое Кино" tvg-shifh=0 ,Наше Новое Кино
+http://iptv.apka.net.ua:8087/nashe-novoe-kinoza
+#EXTINF:0 tvg-name="Наше ТВ" tvg-shifh=0 ,Наше ТВ
+http://iptv.apka.net.ua:8087/nashe-tvbd
+#EXTINF:0 tvg-name="Новороссия HD" tvg-shifh=0 ,Новороссия HD
+http://iptv.apka.net.ua:8087/novorossiya-hdsk
+#EXTINF:0 tvg-name="Ностальгия" tvg-shifh=0 ,Ностальгия
+http://iptv.apka.net.ua:8087/nostalgiyatd
+#EXTINF:0 tvg-name="НСТ" tvg-shifh=0 ,НСТ
+http://iptv.apka.net.ua:8087/nstra
+#EXTINF:0 tvg-name="НТВ +2" tvg-shifh=0 ,НТВ +2
+http://iptv.apka.net.ua:8086/ntv-plus2er
+#EXTINF:0 tvg-name="НТВ +4" tvg-shifh=0 ,НТВ +4
+http://iptv.apka.net.ua:8086/ntv-plus4ye
+#EXTINF:0 tvg-name="НТВ HD" tvg-shifh=0 ,НТВ HD
+http://iptv.apka.net.ua:8087/ntv-hdth
+#EXTINF:0 tvg-name="НТВ Право" tvg-shifh=0 ,НТВ Право
+http://iptv.apka.net.ua:8087/ntv-pravodi
+#EXTINF:0 tvg-name="НТВ Сериал" tvg-shifh=0 ,НТВ Сериал
+http://iptv.apka.net.ua:8087/ntv-serialny
+#EXTINF:0 tvg-name="НТВ Стиль" tvg-shifh=0 ,НТВ Стиль
+http://iptv.apka.net.ua:8087/ntv-stilzz
+#EXTINF:0 tvg-name="НТВ-ХИТ" tvg-shifh=0 ,НТВ-ХИТ
+http://iptv.apka.net.ua:8087/ntvminhitek
+#EXTINF:0 tvg-name="О!" tvg-shifh=0 ,О!
+http://iptv.apka.net.ua:8086/oze
+#EXTINF:0 tvg-name="Океан ТВ" tvg-shifh=0 ,Океан ТВ
+http://iptv.apka.net.ua:8087/okean-tvdb
+#EXTINF:0 tvg-name="Оплот HD" tvg-shifh=0 ,Оплот HD
+http://iptv.apka.net.ua:8087/oplot-hdik
+#EXTINF:0 tvg-name="ОТВ Челябинск" tvg-shifh=0 ,ОТВ Челябинск
+http://iptv.apka.net.ua:8086/otv-chelyabinskiz
+#EXTINF:0 tvg-name="ОТР" tvg-shifh=0 ,ОТР
+http://iptv.apka.net.ua:8087/otrfs
+#EXTINF:0 tvg-name="Охота и Рыбалка" tvg-shifh=0 ,Охота и Рыбалка
+http://iptv.apka.net.ua:8086/ohota-i-rybalkaia
+#EXTINF:0 tvg-name="Первый HD" tvg-shifh=0 ,Первый HD
+http://iptv.apka.net.ua:8087/pervyy-hdbe
+#EXTINF:0 tvg-name="Первый Вегетарианский" tvg-shifh=0 ,Первый Вегетарианский
+http://iptv.apka.net.ua:8087/pervyy-vegetarianskiytd
+#EXTINF:0 tvg-name="Первый Канал" tvg-shifh=0 ,Первый Канал
+http://iptv.apka.net.ua:8087/pervyy-kanalik
+#EXTINF:0 tvg-name="Первый канал +2" tvg-shifh=0 ,Первый канал +2
+http://iptv.apka.net.ua:8086/pervyy-kanal-plus2sk
+#EXTINF:0 tvg-name="Первый канал +4" tvg-shifh=0 ,Первый канал +4
+http://iptv.apka.net.ua:8086/pervyy-kanal-plus4tr
+#EXTINF:0 tvg-name="Первый канал HD +4" tvg-shifh=0 ,Первый канал HD +4
+http://iptv.apka.net.ua:8086/pervyy-kanal-hd-plus4yk
+#EXTINF:0 tvg-name="Первый метео" tvg-shifh=0 ,Первый метео
+http://iptv.apka.net.ua:8086/pervyy-meteoti
+#EXTINF:0 tvg-name="Первый Образовательный" tvg-shifh=0 ,Первый Образовательный
+http://iptv.apka.net.ua:8087/pervyy-obrazovatelnyyre
+#EXTINF:0 tvg-name="Петербург 5 канал +2" tvg-shifh=0 ,Петербург 5 канал +2
+http://iptv.apka.net.ua:8086/peterburg-5-kanal-plus2nb
+#EXTINF:0 tvg-name="Победа" tvg-shifh=0 ,Победа
+http://iptv.apka.net.ua:8087/pobedafa
+#EXTINF:0 tvg-name="Поехали!" tvg-shifh=0 ,Поехали!
+http://iptv.apka.net.ua:8087/poehalied
+#EXTINF:0 tvg-name="Премьерный Показ" tvg-shifh=0 ,Премьерный Показ
+http://iptv.apka.net.ua:8086/premernyy-pokazib
+#EXTINF:0 tvg-name="Продвижение" tvg-shifh=0 ,Продвижение
+http://iptv.apka.net.ua:8087/prodvijeniehi
+#EXTINF:0 tvg-name="Просвещение" tvg-shifh=0 ,Просвещение
+http://iptv.apka.net.ua:8087/prosveshchenienz
+#EXTINF:0 tvg-name="Пятница" tvg-shifh=0 ,Пятница
+http://iptv.apka.net.ua:8087/pyatnicahk
+#EXTINF:0 tvg-name="Радио Страна FM" tvg-shifh=0 ,Радио Страна FM
+http://iptv.apka.net.ua:8086/radio-strana-fmtr
+#EXTINF:0 tvg-name="Радость моя" tvg-shifh=0 ,Радость моя
+http://iptv.apka.net.ua:8087/radost-moyazr
+#EXTINF:0 tvg-name="РБК" tvg-shifh=0 ,РБК
+http://iptv.apka.net.ua:8086/rbkez
+#EXTINF:0 tvg-name="РБК-ТВ" tvg-shifh=0 ,РБК-ТВ
+http://iptv.apka.net.ua:8087/rbkmintvbb
+#EXTINF:0 tvg-name="РЕН ТВ (HD)" tvg-shifh=0 ,РЕН ТВ (HD)
+http://iptv.apka.net.ua:8086/ren-tv-hdyh
+#EXTINF:0 tvg-name="Рен ТВ +2" tvg-shifh=0 ,Рен ТВ +2
+http://iptv.apka.net.ua:8086/ren-tv-plus2er
+#EXTINF:0 tvg-name="Рен ТВ +4" tvg-shifh=0 ,Рен ТВ +4
+http://iptv.apka.net.ua:8086/ren-tv-plus4sz
+#EXTINF:0 tvg-name="Родное Кино" tvg-shifh=0 ,Родное Кино
+http://iptv.apka.net.ua:8087/rodnoe-kinodd
+#EXTINF:0 tvg-name="Россия 1 +2" tvg-shifh=0 ,Россия 1 +2
+http://iptv.apka.net.ua:8086/rossiya-1-plus2ay
+#EXTINF:0 tvg-name="Россия 1 HD" tvg-shifh=0 ,Россия 1 HD
+http://iptv.apka.net.ua:8087/rossiya-1-hdzr
+#EXTINF:0 tvg-name="Россия К" tvg-shifh=0 ,Россия К
+http://iptv.apka.net.ua:8087/rossiya-ktd
+#EXTINF:0 tvg-name="Россия Культура" tvg-shifh=0 ,Россия Культура
+http://iptv.apka.net.ua:8088/rossiya-kulturani
+#EXTINF:0 tvg-name="РТР Планета" tvg-shifh=0 ,РТР Планета
+http://iptv.apka.net.ua:8087/rtr-planetahk
+#EXTINF:0 tvg-name="Русская комедия" tvg-shifh=0 ,Русская комедия
+http://iptv.apka.net.ua:8087/russkaya-komediyaid
+#EXTINF:0 tvg-name="Русский бестселлер" tvg-shifh=0 ,Русский бестселлер
+http://iptv.apka.net.ua:8087/russkiy-bestsellerys
+#EXTINF:0 tvg-name="Русский детектив" tvg-shifh=0 ,Русский детектив
+http://iptv.apka.net.ua:8088/russkiy-detektivkr
+#EXTINF:0 tvg-name="Русский Иллюзион" tvg-shifh=0 ,Русский Иллюзион
+http://iptv.apka.net.ua:8087/russkiy-illyuziondd
+#EXTINF:0 tvg-name="Русский роман" tvg-shifh=0 ,Русский роман
+http://iptv.apka.net.ua:8087/russkiy-romanyk
+#EXTINF:0 tvg-name="С Music" tvg-shifh=0 ,С Music
+http://iptv.apka.net.ua:8086/s-musicbn
+#EXTINF:0 tvg-name="Санкт-Петербург" tvg-shifh=0 ,Санкт-Петербург
+http://iptv.apka.net.ua:8086/sanktminpeterburgrz
+#EXTINF:0 tvg-name="Сарафан" tvg-shifh=0 ,Сарафан
+http://iptv.apka.net.ua:8087/sarafanni
+#EXTINF:0 tvg-name="Синема" tvg-shifh=0 ,Синема
+http://iptv.apka.net.ua:8086/sinemakk
+#EXTINF:0 tvg-name="Совершенно секретно" tvg-shifh=0 ,Совершенно секретно
+http://iptv.apka.net.ua:8087/sovershenno-sekretnokz
+#EXTINF:0 tvg-name="Спас" tvg-shifh=0 ,Спас
+http://iptv.apka.net.ua:8087/spasak
+#EXTINF:0 tvg-name="Страшное HD" tvg-shifh=0 ,Страшное HD
+http://iptv.apka.net.ua:8086/strashnoe-hdbh
+#EXTINF:0 tvg-name="СТС" tvg-shifh=0 ,СТС
+http://iptv.apka.net.ua:8087/stsrd
+#EXTINF:0 tvg-name="СТС +2" tvg-shifh=0 ,СТС +2
+http://iptv.apka.net.ua:8086/sts-plus2ay
+#EXTINF:0 tvg-name="СТС +4" tvg-shifh=0 ,СТС +4
+http://iptv.apka.net.ua:8086/sts-plus4za
+#EXTINF:0 tvg-name="СТС HD" tvg-shifh=0 ,СТС HD
+http://iptv.apka.net.ua:8086/sts-hdkk
+#EXTINF:0 tvg-name="СТС Kids HD" tvg-shifh=0 ,СТС Kids HD
+http://iptv.apka.net.ua:8086/sts-kids-hdds
+#EXTINF:0 tvg-name="СТС Love" tvg-shifh=0 ,СТС Love
+http://iptv.apka.net.ua:8087/sts-lovenh
+#EXTINF:0 tvg-name="Супер" tvg-shifh=0 ,Супер
+http://iptv.apka.net.ua:8086/superfb
+#EXTINF:0 tvg-name="Тайна" tvg-shifh=0 ,Тайна
+http://iptv.apka.net.ua:8086/taynasr
+#EXTINF:0 tvg-name="ТВ 1000 World kino" tvg-shifh=0 ,ТВ 1000 World kino
+http://iptv.apka.net.ua:8088/tv-1000-world-kinofk
+#EXTINF:0 tvg-name="ТВ Центр" tvg-shifh=0 ,ТВ Центр
+http://iptv.apka.net.ua:8088/tv-centrzy
+#EXTINF:0 tvg-name="ТВ Центр +2" tvg-shifh=0 ,ТВ Центр +2
+http://iptv.apka.net.ua:8086/tv-centr-plus2sk
+#EXTINF:0 tvg-name="ТВ-3" tvg-shifh=0 ,ТВ-3
+http://iptv.apka.net.ua:8087/tvmin3et
+#EXTINF:0 tvg-name="Твой Дом" tvg-shifh=0 ,Твой Дом
+http://iptv.apka.net.ua:8087/tvoy-domny
+#EXTINF:0 tvg-name="ТВЦ" tvg-shifh=0 ,ТВЦ
+http://iptv.apka.net.ua:8087/tvcen
+#EXTINF:0 tvg-name="Театр" tvg-shifh=0 ,Театр
+http://iptv.apka.net.ua:8086/teatryd
+#EXTINF:0 tvg-name="Телеканал 360" tvg-shifh=0 ,Телеканал 360
+http://iptv.apka.net.ua:8086/telekanal-360zi
+#EXTINF:0 tvg-name="Да Винчи" tvg-shifh=0 ,Да Винчи
+http://iptv.apka.net.ua:8087/da-vinchiib
+#EXTINF:0 tvg-name="Телекафе" tvg-shifh=0 ,Телекафе
+http://iptv.apka.net.ua:8087/telekafekz
+#EXTINF:0 tvg-name="Телеклуб - Детский Мир" tvg-shifh=0 ,Телеклуб - Детский Мир
+http://iptv.apka.net.ua:8087/teleklub-min-detskiy-mirhh
+#EXTINF:0 tvg-name="ТНВ-планета" tvg-shifh=0 ,ТНВ-планета
+http://iptv.apka.net.ua:8086/tnvminplanetany
+#EXTINF:0 tvg-name="ТНТ" tvg-shifh=0 ,ТНТ
+http://iptv.apka.net.ua:8087/tntds
+#EXTINF:0 tvg-name="ТНТ +2" tvg-shifh=0 ,ТНТ +2
+http://iptv.apka.net.ua:8086/tnt-plus2sn
+#EXTINF:0 tvg-name="ТНТ 4" tvg-shifh=0 ,ТНТ 4
+http://iptv.apka.net.ua:8088/tnt-4tr
+#EXTINF:0 tvg-name="ТНТ +4" tvg-shifh=0 ,ТНТ +4
+http://iptv.apka.net.ua:8086/tnt-plus4iz
+#EXTINF:0 tvg-name="ТНТ HD" tvg-shifh=0 ,ТНТ HD
+http://iptv.apka.net.ua:8087/tnt-hdzn
+#EXTINF:0 tvg-name="ТНТ Music" tvg-shifh=0 ,ТНТ Music
+http://iptv.apka.net.ua:8087/tnt-musiczt
+#EXTINF:0 tvg-name="Точка отрыва" tvg-shifh=0 ,Точка отрыва
+http://iptv.apka.net.ua:8087/tochka-otryvazd
+#EXTINF:0 tvg-name="ТРК Юнион" tvg-shifh=0 ,ТРК Юнион
+http://iptv.apka.net.ua:8087/trk-yunionrn
+#EXTINF:0 tvg-name="Уникум" tvg-shifh=0 ,Уникум
+http://iptv.apka.net.ua:8086/unikumaz
+#EXTINF:0 tvg-name="Усадьба" tvg-shifh=0 ,Усадьба
+http://iptv.apka.net.ua:8087/usadbard
+#EXTINF:0 tvg-name="ЧГТРК Грозный" tvg-shifh=0 ,ЧГТРК Грозный
+http://iptv.apka.net.ua:8086/chgtrk-groznyyyi
+#EXTINF:0 tvg-name="Че" tvg-shifh=0 ,Че
+http://iptv.apka.net.ua:8087/chens
+#EXTINF:0 tvg-name="Шансон ТВ" tvg-shifh=0 ,Шансон ТВ
+http://iptv.apka.net.ua:8087/shanson-tvre
+#EXTINF:0 tvg-name="ЭГЕ" tvg-shifh=0 ,ЭГЕ
+http://iptv.apka.net.ua:8086/egezf
+#EXTINF:0 tvg-name="Эгоист ТВ" tvg-shifh=0 ,Эгоист ТВ
+http://iptv.apka.net.ua:8087/egoist-tvyf
+#EXTINF:0 tvg-name="Ю" tvg-shifh=0 ,Ю
+http://iptv.apka.net.ua:8087/yurb
+#EXTINF:0 tvg-name="Ювелирочка" tvg-shifh=0 ,Ювелирочка
+http://iptv.apka.net.ua:8087/yuvelirochkabe
+#EXTINF:0 tvg-name="Юнион" tvg-shifh=0 ,Юнион
+http://iptv.apka.net.ua:8086/yunionda
